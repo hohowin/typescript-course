@@ -13,3 +13,9 @@ tsc --init
 ```bash
 tsc --watch
 ```
+
+4\. To Create a react app with typescript
+
+```bash
+npx create-react-app . --template typescript
+```
